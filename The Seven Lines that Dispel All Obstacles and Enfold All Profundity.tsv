@@ -1,0 +1,136 @@
+form	lemma	POS	morph
+༄༅།		PUNCT
+		
+།		PUNCT
+བར་ཆད་	བར་ཆད་	NOUN
+ཀུན་	ཀུན་	DET
+སེལ་	སེལ་	VERB
+ཟབ་	ཟབ་	VERB
+འདུ་	འདུ་	VERB
+ཀུན་	ཀུན་	DET
+ཚིག་	ཚིག་	NOUN
+བདུན་	བདུན་	NUM
+མ་	མ་	PART
+ཞེ་	ཅེས་	PART
+བྱ་བ་	བྱ་བ་	VERB
+བཞུགས་	བཞུགས་	VERB
+།		PUNCT
+		
+།		PUNCT
+བྱིན་རླབས་	བྱིན་རླབས་	NOUN
+ཀུན་	ཀུན་	DET
+སྩོལ་	སྩོལ་	VERB
+བླ་མ་	བླ་མ་	NOUN
+པདྨ་	པདྨ་	NOUN
+འབྱུང་	འབྱུང་	VERB
+།		PUNCT
+		
+།		PUNCT
+དངོས་གྲུབ་	དངོས་གྲུབ་	NOUN
+ཀུན་བདག་	ཀུན་བདག་	NO_POS
+ཡི་དམ་	ཡི་དམ་	NOUN
+རྟ་མཆོག་	རྟ་མཆོག་	NOUN
+དཔལ་	དཔལ་	OTHER
+།		PUNCT
+		
+།		PUNCT
+ཕྲིན་ལས་	ཕྲིན་ལས་	NOUN
+ཀུན་	ཀུན་	DET
+སྟེར་	སྟེར་	VERB
+མཁའ་འགྲོ་	མཁའ་འགྲོ་	NOUN
+རྣལ་འབྱོར་	རྣལ་འབྱོར་	NOUN
+མ་	མ་	PART
+།		PUNCT
+		
+།		PUNCT
+བར་ཆད་	བར་ཆད་	NOUN
+ཀུན་	ཀུན་	DET
+སེལ་	སེལ་	VERB
+བཀའ་སྲུང་	བཀའ་སྲུང་	OTHER
+ལྕམ་དྲལ་	ལྕམ་དྲལ་	NOUN
+སྡེ་	སྡེ་	NOUN
+།		PUNCT
+		
+།		PUNCT
+གསོལ་བ་	གསོལ་བ་	VERB
+འདེབས་	འདེབས་	VERB
+སོ་བ་	སོ་བ་	NO_POS
+ར་	ལ་	PART
+ཆད་	ཆད་	VERB
+ཀུན་	ཀུན་	DET
+སོལ་	སོལ་	VERB
+ལོ་	གོ་	PART
+།		PUNCT
+		
+།		PUNCT
+བསམ་པ་	བསམ་པ་	VERB
+འི་	གི་	PART
+དོན་	དོན་	NOUN
+ཀུན་	ཀུན་	DET
+ཡིད་བཞིན་	ཡིད་བཞིན་	OTHER
+འགྲུབ་པ་	འགྲུབ་པ་	VERB
+དང་	དང་	NO_POS
+།		PUNCT
+		
+།		PUNCT
+ཕྲལ་	ཕྲལ་	NO_POS
+ཕུགས་	ཕུགས་	VERB
+ཀུན་	ཀུན་	DET
+ཏུ་	ལ་	PART
+དགེ་ལེགས་	དགེ་ལེགས་	OTHER
+ཆ་	ཆ་	NOUN
+ར་	ལ་	PART
+དུ་	ལ་	PART
+སྙིལ་	སྙིལ་	NO_POS
+།		PUNCT
+		
+།		PUNCT
+ཨོྃ་		NON_WORD
+ཨཱཿ་		NON_WORD
+ཧཱུྃ་		NON_WORD
+གུ་རུ་	གུ་རུ་	PROPN
+དེ་བ་	དེ་བ་	OTHER
+ཌཱཀྐི་		NON_WORD
+ནི་	ནི་	NO_POS
+དྷརྨ་པ་	དྷརྨ་པ་	NON_WORD
+ལ་	ལ་	PART
+སརྦ་	སརྦ་	NO_POS
+སིདྡྷི་		NON_WORD
+ཧཱུྃ་		NON_WORD
+།		PUNCT
+		
+།		PUNCT
+ཞེ་	ཅེས་	PART
+རྒྱ་	རྒྱ་	NOUN
+ཆེ་	ཆེ་	VERB
+འི་	གི་	PART
+དོན་	དོན་	NOUN
+འདུ་	འདུ་	VERB
+ཟབ་པ་	ཟབ་པ་	VERB
+འི་	གི་	PART
+གནད་	གནད་	NOUN
+།		PUNCT
+		
+ཐུན་མོང་	ཐུན་མོང་	ADJ
+མ་	མ་	PART
+ཡིན་	ཡིན་	NO_POS
+ཁྱད་པར་	ཁྱད་པར་	NOUN
+ཆེ་	ཆེ་	VERB
+།		PUNCT
+		
+སྐལ་ལྡན་	སྐལ་ལྡན་	ADJ
+རྣམས་	རྣམས་	DET
+ཀྱི་	གི་	PART
+ཉམས་	ཉམས་	NOUN
+སུ་	ལ་	PART
+ལོངས་	ལོངས་	VERB
+།		PUNCT
+		
+རིག་པ་	རིག་པ་	VERB
+འི་	གི་	PART
+རྡོ་རྗེ་	རྡོ་རྗེ་	NOUN
+འི་	གི་	PART
+ཤར་མ་		
+སྤེལ་	སྤེལ་	VERB
+"།
+།"		PUNCT
